@@ -1,2 +1,0 @@
-# Codes HTML
- School projects 
